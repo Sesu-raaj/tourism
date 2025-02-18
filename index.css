@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bgg {
+    background-color: #03174c;
+    width: 400px;
+    height: 800px;
+}
+
+.bg {
+    background-color: #03174c;
+    width: 400px;
+    height: 750px;
+}
+
+.first-bg-img {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 300px;
+    width: 400px;
+}
+
+.first-content {
+    text-align: center;
+    padding: 90px;
+    color: white;
+
+}
+
+.first-hed {
+    font-size: 30px;
+    font-family: "bree serif";
+}
+
+.first-para {
+    font-size: 12px;
+}
+
+.inside-img-card-container {
+    height: 150px;
+    width: 300px;
+    background-size: cover;
+    padding: 40px;
+    margin: 60px;
+
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+}
+
+.inside-content {
+    text-align: center;
+    font-family: "bree serif";
+    font-size: 35px;
+    color: white;
+}
+
+.second-para {
+    text-align: center;
+    font-size: 13px;
+    color: white;
+    margin: 5px;
+}
+
+.button {
+    background-color: #8e97fd;
+    color: white;
+    border-radius: 12px;
+    border-width: 0;
+    font-size: 15px;
+    padding: 2px;
+    width: 100px;
+    height: 30px;
+}
+
+.but {
+    text-align: center;
+}
+
+.second-img {
+    height: 300px;
+    width: 400px;
+}
+
+.second-content {
+    color: white;
+    padding: 10px;
+}
+
+.sec-para {
+    color: #98a1bd;
+}
+
+.second-hed {
+    font-family: "bree serif";
+    font-size: 35px;
+}
+
+.hedd {
+    font-family: "bree serif";
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.kutti-img {
+    height: 100px;
+    width: 150px;
+}
+
+.font {
+    color: white;
+    padding: 15px;
+    margin: 10px;
+}
+
+.last-hed {
+    font-size: 15px;
+
+}
+
+.last-para {
+    color: #98a1bd;
+    font-size: 13px;
+}
+
+.imgs {
+    margin: 10px;
+}
+
+.sbut {
+    padding: 10px;
+}
